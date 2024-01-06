@@ -1,16 +1,30 @@
-### Hi there 👋
+# ¡Hola! 👋 Soy Nicolas Paniagua
 
-<!--
-**nicolas-netizen/nicolas-netizen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mí
+Soy un entusiasta de la tecnología apasionado por la programación y la ciberseguridad. Actualmente, trabajo en un sistema para asegurar cosas informáticas  y estoy constantemente aprendiendo nuevas tecnologías.
 
-Here are some ideas to get you started:
+## Mis Proyectos Destacados
+- **Juego Tower Defense**: Un juego creado y desarrollado por mí en Unity.
+- **Página Web**: El diseño de una página web con React y Node.js.
+- **Ciberseguridad**: Despliegue de testing de puertos y Análisis de vulnerabilidades, utilizando Python y Kali Linux.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Habilidades
+- Lenguajes de Programación: C#, Python, JavaScript, etc.
+- Tecnologías Web: HTML, CSS, React, etc.
+- Ciberseguridad: Escaneo de puertos, Análisis de vulnerabilidades, etc.
+
+## Actualmente Estoy Aprendiendo
+- Angular
+- Ruby
+
+## Colaboraciones
+Estoy interesado en colaborar en proyectos relacionados con ciberseguridad.
+
+## Cómo Contactarme
+- [LinkedIn](https://www.linkedin.com/in/nicolas-paniagua-80150a256/)
+- [Correo Electrónico](nicolas.paniagua05f@gmail.com)
+
+## Hecho Curioso
+¡Optimista y perseverante como líder!
+
+¡Gracias por visitar mi perfil! 😄
